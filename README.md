@@ -26,6 +26,7 @@ LoRA-Select addresses efficiency, adaptability, and domain specialization challe
 - `adapter_tuning/`: Python notebooks for domain specific adapter training and evaluation
 - `LoRA_Select_Dynamic_Switch.ipynb`: Putting it all together - Uses Gradio UI 
 - `DS5983_Presentation_LoRA-SELECT.pdf`: The presentation pdf used for the pitch in our demo video
+- `LoRA-Select_DS5983_ProjectReport.pdf`: This is a consolidated report of our findings and experiments
 
 ## Trained Models
 
